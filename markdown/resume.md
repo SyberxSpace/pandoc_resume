@@ -61,8 +61,6 @@ Content Familiarity
     | Graphic Design, Desktop Publishing           | ◼◼◼◻◻       |
     | Photography, Cinematography, Special FX      | ◼◼◼◻◻       |
     | Networking, Security                         | ◼◼◻◻◻       |
-    | Aerospace Engineering                        | ◼◼◻◻◻       |
-    | eTextiles, Wearables                         | ◼◻◻◻◻       |
     \
 
 Software
