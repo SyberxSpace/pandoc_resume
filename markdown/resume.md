@@ -1,100 +1,81 @@
-Johnny Coder
+Nicholas Schwankl
 ============
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  A lifelong learner, maker, and edutainer focused on making design 
+>  and technological literacy accessible to everyone.
+>  Experienced in CAD, low-cost prototyping, and physical computing. 
 
 ----
 
 Education
 ---------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+2017 - 2021
+:   **BSc. Technology, Engineering and Design Education**\
+    *NC State University (Raleigh)*
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
-
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
-
-    *Minor: Awesomeology*
+    Licensure Concentration / GPA - 3.89
 
 Experience
 ----------
 
-**Your Most Recent Work Experience:**
+|                                                           |                               |
+| :-------------------------------------------------------- | ----------------------------: |
+| **Student Teacher /** *Riverside High School, Durham, NC* | **January 2021 - April 2021** |
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+* Responsible for 2 sessions of Computer Integrated Manufacturing and a session of Aerospace Engineering
+* Worked closely with cooperating teacher to develop and adapt resources for remote learning setting
+* Provided informative presentations and "hands on" activities, as well as additional support to students who required extra guidance
 
-* First item
+|                                                                   |                                 |
+| :---------------------------------------------------------------- | ------------------------------: |
+| **Makerspace Student Assistant /** *DH Hill Library, Raleigh, NC* | **August 2017 - December 2020** |
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+* Taught proper use of 3D printers, sewing equipment, and other fabrication tools
+* Instructed patrons in 2D and 3D design software
+* Assisted patrons with project design, fabrication techniques, and concept research & development
+* Constructed, repaired, and maintained fabrication equipment
+* Designed demos, projects, and guides for the space
 
-**That Other Job You Had**
 
-Also with a short description.
+Skills
+------
 
-Technical Experience
---------------------
+Certifications
+:   | | |
+    | :-- | --: |
+    | **edTPA /** Technology and Engineering Education | **Score:** 51 |
+    | **PRAXIS /** Technology Education (5051) | **Score:** 200 |
+    | **SolidWorks /** Certified SolidWorks Associate - Mechanical Design
+    \
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Content Familiarity
+:   |                                              |             |
+    | :------------------------------------------- | ----------: |
+    | Electronics, Physical Computing, Robotics    | ◼◼◼◼◼       |
+    | CAD, 3D Design, Mechanical Drafting          | ◼◼◼◼◼       |
+    | Fabrication, Prototyping, Engineering Design | ◼◼◼◼◼       |
+    | Programming, Computer Science                | ◼◼◼◼◻       |
+    | Graphic Design, Desktop Publishing           | ◼◼◼◻◻       |
+    | Photography, Cinematography, Special FX      | ◼◼◼◻◻       |
+    | Networking, Security                         | ◼◼◻◻◻       |
+    | Aerospace Engineering                        | ◼◼◻◻◻       |
+    | eTextiles, Wearables                         | ◼◻◻◻◻       |
+    \
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
-
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
-
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
-
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Extra Section, Call it Whatever You Want
-----------------------------------------
-
-* Human Languages:
-
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
-
-* Random tidbit
-
-* Other sort of impressive-sounding thing you did
+Software
+:   |                                   |                                                                                   |
+    | :-------------------------------- | :-------------------------------------------------------------------------------- |
+    | Programming                       | **Arduino (C++)**, **Scratch-like**, HTML, CSS, Python, Javascript, Java          |
+    | CAD                               | **Fusion 360**, **SolidWorks**, OnShape, KiCAD, Blender                           |
+    | Image Editing                     | **Photoshop**, **Illustrator**, InkScape, GIMP                                    |
+    | Audio Editing                     | **Audition**, **Audacity**, FL Studio                                             |
+    | Video Editing                     | **After Effects**, **OBS Studio**, Premiere Pro                                   |
+    | Document Editing                  | **Google Docs**, MS Word, MS PowerPoint, InDesign                                 |
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <syberxspace@gmail.com> • (919) 207-8899 • [syber-space.com](https://syber-space.com/)\
+> 1285 Thompson St - Pittsboro, NC 27312
