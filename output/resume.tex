@@ -1,0 +1,288 @@
+% Copyright 2013 Christophe-Marie Duquesne <chmd@chmd.fr>
+% Copyright 2014 Mark Szepieniec <http://github.com/mszep>
+% 
+% ConText style for making a resume with pandoc. Inspired by moderncv.
+% 
+% This CSS document is delivered to you under the CC BY-SA 3.0 License.
+% https://creativecommons.org/licenses/by-sa/3.0/deed.en_US
+
+\startmode[*mkii]
+  \enableregime[utf-8]  
+  \setupcolors[state=start]
+\stopmode
+
+\setupcolor[hex]
+\definecolor[titlegrey][h=6c5ce7]
+\definecolor[sectioncolor][h=6c5ce7]
+\definecolor[rulecolor][h=a29bfe]
+
+% Enable hyperlinks
+\setupinteraction[state=start, color=sectioncolor]
+
+\setuppapersize [A4][A4]
+\setuplayout    [width=middle, height=middle,
+                 backspace=20mm, cutspace=0mm,
+                 topspace=10mm, bottomspace=20mm,
+                 header=0mm, footer=0mm]
+
+%\setuppagenumbering[location={footer,center}]
+
+\setupbodyfont[8pt, lato]
+
+\setupwhitespace[medium]
+
+\setupblackrules[width=31mm, color=rulecolor]
+
+\setuphead[chapter]      [style=\tfd]
+\setuphead[section]      [style=\tfd\bf, color=titlegrey, align=middle]
+\setuphead[subsection]   [style=\tfb\bf, color=sectioncolor, align=right,
+                          before={\leavevmode\blackrule\hspace}]
+\setuphead[subsubsection][style=\bf]
+
+\setuphead[chapter, section, subsection, subsubsection][number=no]
+
+%\setupdescriptions[width=10mm]
+
+\definedescription
+  [description]
+  [headstyle=bold, style=normal,
+   location=hanging, width=18mm, distance=14mm, margin=0cm]
+
+\setupitemize[autointro, packed]    % prevent orphan list intro
+\setupitemize[indentnext=no]
+
+\setupfloat[figure][default={here,nonumber}]
+\setupfloat[table][default={here,nonumber}]
+
+\setuptables[textwidth=max, HL=none]
+\setupxtable[frame=off,option={stretch,width}]
+
+\setupthinrules[width=15em] % width of horizontal rules
+
+\setupdelimitedtext
+  [blockquote]
+  [before={\setupalign[middle]},
+   indentnext=no,
+  ]
+
+
+\starttext
+
+\section[title={Nicholas Schwankl},reference={nicholas-schwankl}]
+
+\thinrule
+
+\startblockquote
+A lifelong learner, maker, and edutainer focused on making design and
+technological literacy accessible to everyone. Experienced in CAD,
+low-cost prototyping, and physical computing.
+\stopblockquote
+
+\thinrule
+
+\subsection[title={Education},reference={education}]
+
+\startdescription{2017 - 2021}
+  {\bf BSc. Technology, Engineering and Design Education}\crlf
+  {\em NC State University (Raleigh)}
+
+  Licensure Concentration / GPA - 3.89
+\stopdescription
+
+\subsection[title={Experience},reference={experience}]
+
+\startplacetable[location=none]
+\startxtable
+\startxtablebody[body]
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell[align=right,width={0.66\textwidth}] {\bf Student Teacher /}
+{\em Riverside High School, Durham, NC} \stopxcell
+\startxcell[align=left,width={0.34\textwidth}] {\bf January 2021 - April
+2021} \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+\startitemize[packed]
+\item
+  Responsible for 2 sessions of Computer Integrated Manufacturing and a
+  session of Aerospace Engineering
+\item
+  Worked closely with cooperating teacher to develop and adapt resources
+  for remote learning setting
+\item
+  Provided informative presentations and \quotation{hands on}
+  activities, as well as additional support to students who required
+  extra guidance
+\stopitemize
+
+\startplacetable[location=none]
+\startxtable
+\startxtablebody[body]
+\stopxtablebody
+\startxtablefoot[foot]
+\startxrow
+\startxcell[align=right,width={0.68\textwidth}] {\bf Makerspace Student
+Assistant /} {\em DH Hill Library, Raleigh, NC} \stopxcell
+\startxcell[align=left,width={0.32\textwidth}] {\bf August 2017 -
+December 2020} \stopxcell
+\stopxrow
+\stopxtablefoot
+\stopxtable
+\stopplacetable
+
+\startitemize[packed]
+\item
+  Taught proper use of 3D printers, sewing equipment, and other
+  fabrication tools
+\item
+  Instructed patrons in 2D and 3D design software
+\item
+  Assisted patrons with project design, fabrication techniques, and
+  concept research & development
+\item
+  Constructed, repaired, and maintained fabrication equipment
+\item
+  Designed demos, projects, and guides for the space
+\stopitemize
+
+\subsection[title={Skills},reference={skills}]
+
+\startdescription{Certifications}
+  \startplacetable[location=none]
+  \startxtable
+  \startxtablebody[body]
+  \startxrow
+  \startxcell[align=right] {\bf edTPA /} Technology and Engineering
+  Education \stopxcell
+  \startxcell[align=left] {\bf Score:} 51 \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right] {\bf PRAXIS /} Technology Education
+  (5051) \stopxcell
+  \startxcell[align=left] {\bf Score:} 200 \stopxcell
+  \stopxrow
+  \stopxtablebody
+  \startxtablefoot[foot]
+  \startxrow
+  \startxcell[align=right] {\bf SolidWorks /} Certified SolidWorks
+  Associate - Mechanical Design \stopxcell
+  \stopxrow
+  \stopxtablefoot
+  \stopxtable
+  \stopplacetable
+
+  \crlf
+\stopdescription
+
+\startdescription{Content Familiarity}
+  \startplacetable[location=none]
+  \startxtable
+  \startxtablebody[body]
+  \startxrow
+  \startxcell[align=right] Electronics, Physical Computing,
+  Robotics \stopxcell
+  \startxcell[align=left] ◼◼◼◼◼ \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right] CAD, 3D Design, Mechanical
+  Drafting \stopxcell
+  \startxcell[align=left] ◼◼◼◼◼ \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right] Fabrication, Prototyping, Engineering
+  Design \stopxcell
+  \startxcell[align=left] ◼◼◼◼◼ \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right] Programming, Computer Science \stopxcell
+  \startxcell[align=left] ◼◼◼◼◻ \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right] Graphic Design, Desktop Publishing \stopxcell
+  \startxcell[align=left] ◼◼◼◻◻ \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right] Photography, Cinematography, Special
+  FX \stopxcell
+  \startxcell[align=left] ◼◼◼◻◻ \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right] Networking, Security \stopxcell
+  \startxcell[align=left] ◼◼◻◻◻ \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right] Aerospace Engineering \stopxcell
+  \startxcell[align=left] ◼◼◻◻◻ \stopxcell
+  \stopxrow
+  \stopxtablebody
+  \startxtablefoot[foot]
+  \startxrow
+  \startxcell[align=right] eTextiles, Wearables \stopxcell
+  \startxcell[align=left] ◼◻◻◻◻ \stopxcell
+  \stopxrow
+  \stopxtablefoot
+  \stopxtable
+  \stopplacetable
+
+  \crlf
+\stopdescription
+
+\startdescription{Software}
+  \startplacetable[location=none]
+  \startxtable
+  \startxtablebody[body]
+  \startxrow
+  \startxcell[align=right,width={0.29\textwidth}] Programming \stopxcell
+  \startxcell[align=right,width={0.71\textwidth}] {\bf Arduino (C++)},
+  {\bf Scratch-like}, HTML, CSS, Python, Javascript, Java \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right,width={0.29\textwidth}] CAD \stopxcell
+  \startxcell[align=right,width={0.71\textwidth}] {\bf Fusion 360},
+  {\bf SolidWorks}, OnShape, KiCAD, Blender \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right,width={0.29\textwidth}] Image
+  Editing \stopxcell
+  \startxcell[align=right,width={0.71\textwidth}] {\bf Photoshop},
+  {\bf Illustrator}, InkScape, GIMP \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right,width={0.29\textwidth}] Audio
+  Editing \stopxcell
+  \startxcell[align=right,width={0.71\textwidth}] {\bf Audition},
+  {\bf Audacity}, FL Studio \stopxcell
+  \stopxrow
+  \startxrow
+  \startxcell[align=right,width={0.29\textwidth}] Video
+  Editing \stopxcell
+  \startxcell[align=right,width={0.71\textwidth}] {\bf After Effects},
+  {\bf OBS Studio}, Premiere Pro \stopxcell
+  \stopxrow
+  \stopxtablebody
+  \startxtablefoot[foot]
+  \startxrow
+  \startxcell[align=right,width={0.29\textwidth}] Document
+  Editing \stopxcell
+  \startxcell[align=right,width={0.71\textwidth}] {\bf Google Docs}, MS
+  Word, MS PowerPoint, InDesign \stopxcell
+  \stopxrow
+  \stopxtablefoot
+  \stopxtable
+  \stopplacetable
+\stopdescription
+
+\thinrule
+
+\startblockquote
+\useURL[url1][mailto:syberxspace@gmail.com][][syberxspace@gmail.com]\from[url1]
+• (919) 207-8899 •
+\useURL[url2][https://syber-space.com/][][syber-space.com]\from[url2]\crlf
+1285 Thompson St - Pittsboro, NC 27312
+\stopblockquote
+
+\stoptext
