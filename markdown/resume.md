@@ -18,6 +18,9 @@ Education
 
     Licensure Concentration / GPA - 3.89
 
+2015 - 2017
+:   *North Carolina School of Science and Mathematics*
+
 Experience
 ----------
 
@@ -50,6 +53,9 @@ Certifications
     | **PRAXIS /** Technology Education (5051) | **Score:** 200 |
     | **SolidWorks /** Certified SolidWorks Associate - Mechanical Design
     \
+
+Awards
+:   
 
 Content Familiarity
 :   |                                              |             |
