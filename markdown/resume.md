@@ -5,7 +5,9 @@ Nicholas Schwankl
 
 >  A lifelong learner, maker, and edutainer focused on making design 
 >  and technological literacy accessible to everyone.
->  Experienced in CAD, low-cost prototyping, and physical computing. 
+>  Experienced in CAD, low-cost prototyping, and physical computing.
+
+> **Proud North Carolina Teaching Fellow**
 
 ----
 
@@ -19,7 +21,10 @@ Education
     Licensure Concentration / GPA - 3.89
 
 2015 - 2017
-:   *North Carolina School of Science and Mathematics*
+:   **High School Diploma**\
+    *North Carolina School of Science and Mathematics (Durham)*
+
+    GPA - 5.15
 
 Experience
 ----------
@@ -55,7 +60,12 @@ Certifications
     \
 
 Awards
-:   
+:   | | |
+    | :-- | --: |
+    | **NC State University /** Summa Cum Laude | June 2021 |
+    | **Instructables Robotics Contest /** First Prize | December 2019 |
+    | **NC State Make-a-thon /** Grand Prize | February 2019 |
+    \
 
 Content Familiarity
 :   |                                              |             |
