@@ -31,6 +31,14 @@ Experience
 
 |                                                           |                               |
 | :-------------------------------------------------------- | ----------------------------: |
+| **PLTW/Engineering Teacher /** *Granville Central High School, Stem, NC* | **January 2022 - Present** |
+
+* Responsible for 2 sessions of Technology Engineering Design and 1 of Introduction to Engineering Design
+* Worked to organize and repair classroom equipment
+* Provided informative presentations and "hands on" activities, as well as additional support to students who required extra guidance
+
+|                                                           |                               |
+| :-------------------------------------------------------- | ----------------------------: |
 | **Student Teacher /** *Riverside High School, Durham, NC* | **January 2021 - April 2021** |
 
 * Responsible for 2 sessions of Computer Integrated Manufacturing and a session of Aerospace Engineering
@@ -92,4 +100,4 @@ Software
 ----
 
 > <syberxspace@gmail.com> • (919) 207-8899 • [syber-space.com](https://syber-space.com/)\
-> 1285 Thompson St - Pittsboro, NC 27312
+> 902 Lambeth Cir, Apt 111 - Durham, NC 27705
