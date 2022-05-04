@@ -31,7 +31,7 @@ Experience
 
 |                                                           |                               |
 | :-------------------------------------------------------- | ----------------------------: |
-| **PLTW/Engineering Teacher /** *Granville Central High School, Stem, NC* | **January 2022 - Present** |
+| **Technology Teacher /** *Granville Central High School, Stem, NC* | **January 2022 - Present** |
 
 * Responsible for 2 sessions of Technology Engineering Design and 1 of Introduction to Engineering Design
 * Worked to organize and repair classroom equipment
@@ -100,4 +100,4 @@ Software
 ----
 
 > <syberxspace@gmail.com> • (919) 207-8899 • [syber-space.com](https://syber-space.com/)\
-> 902 Lambeth Cir, Apt 111 - Durham, NC 27705
+> 902 Lambeth Cir. Apt 111 - Durham, NC 27605
