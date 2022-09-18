@@ -31,7 +31,15 @@ Experience
 
 |                                                           |                               |
 | :-------------------------------------------------------- | ----------------------------: |
-| **Technology Teacher /** *Granville Central High School, Stem, NC* | **January 2022 - Present** |
+| **Laboratory Manager /** *Wake Tech Community College, Raleigh, NC* | **July 2022 - Present** |
+
+* Responsible for maintaining 3D printers and other lab equipment
+* Organized, composed, and designed documentation and signage for lab equipment and instruction
+* Assisted instructors and students with technical support and course content
+
+|                                                           |                               |
+| :-------------------------------------------------------- | ----------------------------: |
+| **Technology Teacher /** *Granville Central High School, Stem, NC* | **January 2022 - June 2022** |
 
 * Responsible for 2 sessions of Technology Engineering Design and 1 of Introduction to Engineering Design
 * Worked to organize and repair classroom equipment
@@ -90,14 +98,14 @@ Content Familiarity
 Software
 :   |                                   |                                                                                   |
     | :-------------------------------- | :-------------------------------------------------------------------------------- |
-    | Programming                       | **Arduino (C++)**, **Scratch-like**, HTML, CSS, Python, Javascript, Java          |
+    | Programming                       | **Arduino (C++)**, Python, HTML, CSS, Scratch-like, Javascript, Java              |
     | CAD                               | **Fusion 360**, **SolidWorks**, OnShape, KiCAD, Blender                           |
-    | Image Editing                     | **Photoshop**, **Illustrator**, InkScape, GIMP                                    |
-    | Audio Editing                     | **Audition**, **Audacity**, FL Studio                                             |
+    | Image Editing                     | **Affinity Suite**, **Photoshop**, **Illustrator**, InkScape, GIMP                |
+    | Audio Editing                     | **Audition**, **Audacity**, Ocenaudio                                             |
     | Video Editing                     | **After Effects**, **OBS Studio**, Premiere Pro                                   |
     | Document Editing                  | **Google Docs**, MS Word, MS PowerPoint, InDesign                                 |
 
 ----
 
 > <syberxspace@gmail.com> • (919) 207-8899 • [syber-space.com](https://syber-space.com/)\
-> 902 Lambeth Cir. Apt 111 - Durham, NC 27605
+> 1285 Thompson St. - Pittsboro, NC 27312
